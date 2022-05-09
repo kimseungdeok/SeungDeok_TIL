@@ -1,2 +1,2 @@
-# SeungDeok_TIL
-Today I Learned
+# Today Seung_Deok Learned
+오늘 내가 배운 것을 정리합니다.
